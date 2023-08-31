@@ -7,12 +7,4 @@ sklearn.metrics.mean_squared_error(
                                     multioutput='uniform_average',
                                     squared=True)
 平均平方误差回归损失。
-
-
-
-
-
-
-
-
 """
